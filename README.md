@@ -11,7 +11,6 @@
 - IT Support & System Administration (2+ years of hands-on experience)
 - Endpoint & Identity Management (Intune, Entra ID, Jamf)
 - Cybersecurity (SIEM, hardening, patching, backups)
-- Construction IT Tools (Procore, BIM 360, Sage 300 CRE)
 
 ---
 
@@ -42,7 +41,7 @@ Setup and management walkthroughs for Procore, Autodesk BIM 360, Sage 300 CRE.
 
 ## 🧰 Tech Stack
 
-`Windows Server 2022` • `Active Directory` • `Microsoft Entra ID` • `Microsoft Intune` • `Jamf` • `O365` • `Sage 300 CRE` • `Procore` • `Autodesk BIM 360` • `SolarWinds` • `SIEM` • `WSUS` • `QNAP` • `PowerShell`
+`Windows Server 2022` • `Active Directory` • `Microsoft Entra ID` • `Microsoft Intune` • `SolarWinds` • `SIEM` • `WSUS` • `QNAP` • `PowerShell`
 
 ---
 
